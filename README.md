@@ -185,3 +185,9 @@ form input.operator
 ## OUTPUT:
 
 ![Screenshot (121)](https://github.com/Niteeshmohan/CALCULATOR/assets/119575445/2d6f92ba-857c-4545-8293-80fca0564406)
+
+![Screenshot (122)](https://github.com/Niteeshmohan/CALCULATOR/assets/119575445/b62887dc-5ba8-4c95-90a7-09e0e7acdb7c)
+
+![Screenshot (123)](https://github.com/Niteeshmohan/CALCULATOR/assets/119575445/7b61fd36-3237-4116-af9c-cfdd502314a5)
+
+
